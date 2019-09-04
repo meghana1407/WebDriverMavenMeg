@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class SampleTest {
 	@Test
 	public void sample() {
-		System.out.println("sample1");
+		System.out.println("sample1 meg");
 	}
 
 }
